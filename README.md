@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there  PaulinaYoun 👋
+
+---
+
+### 🛠️ Tech Stacks & Capability
+
+- **Frontend:** `Svelte`
+- **Backend:** `Node.js`
+- **IoT & Protocols:** `MQTT` 프로토콜과 `IoT`
+- **Intelligent System:** `ML (Machine Learning)`
+
+---
 
 <!--
 **paulinayoun/paulinayoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
