@@ -14,9 +14,6 @@
 
 <!-- [![Blog](https://img.shields.io/badge/Blog-paulinayoun.github.io-black?style=flat-square&logo=github&logoColor=white)](https://paulinayoun.github.io) -->
 
-
----
-
 #### 🌿 About Me
 
 - 🏢 AIoT 연구팀 소속, 스마트팩토리·IoT 데이터 파이프라인 개발 중
