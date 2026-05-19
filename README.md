@@ -1,8 +1,8 @@
-## Hi there  PaulinaYoun 👋
+### Hi there  PaulinaYoun 👋
 
 ---
 
-### 🛠️ Tech Stacks & Capability
+#### 🛠️ Tech Stacks & Capability
 
 - **Frontend:** `Svelte`
 - **Backend:** `Node.js`
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌿 About Me
+#### 🌿 About Me
 
 - 🏢 AIoT 연구팀 소속, 스마트팩토리·IoT 데이터 파이프라인 개발 중
 - 🌐 프론트엔드 엔지니어 (Svelte · TypeScript · Node.js)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 **Frontend**
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📂 Featured Repositories
+#### 📂 Featured Repositories
 
 | 레포 | 설명 | 스택 |
 |---|---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <!-- profile/stats.svg, profile/top-langs.svg 는 GitHub Actions가 자동 생성합니다 -->
 <!-- .github/workflows/readme_stats.yml 참고 -->
